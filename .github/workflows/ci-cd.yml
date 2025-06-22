@@ -10,3 +10,5 @@
       - name: DockerHub
         run: echo "DockerHub"
         
+      - name: DAST - ZAP
+        run: echo "DAST - ZAP"
